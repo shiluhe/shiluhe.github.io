@@ -9,7 +9,9 @@ redirect_from:
 
 About Me
 ======
-Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on legged robots at the Chongqing Embodied Intelligence Laboratory, under the supervision of Professor Pu Can and Professor Yang Chuanyu. My research interests include legged robots, reinforcement learning, and locomotion.
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on legged robots at the Laboratory under the National Institute of Excellence for Engineers, Chongqing University. My research interests include legged robots, reinforcement learning, and locomotion.
+
+***I am currently seeking opportunities to pursue a Master's or Ph.D. degree starting in the fall of 2027.***
 
  [GitHub](https://github.com/shiluhe) /[B站](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
@@ -17,13 +19,13 @@ Academic Background
 ======
 **ChongQing University (2023.09 - 至今)**
 
-- GPA: 3.80/4
+- GPA: 3.83/4
 
 - Rank: 1/57
 
 I am working on scientific research now！
 ======
-[11/2025 to the present] Conducting research on locomotion based RL at the Chongqing Embodied Intelligence Laboratory.
+[11/2025 to the present] Conducting research on locomotion based RL at the Laboratory under the National Institute of Excellence for Engineers, Chongqing University.
 
 [07/2025 -- 09/2025] I completed a research internship at the Institute of Frontier Interdisciplinary Sciences, Beijing Institute of Technology, under the supervision of Professor Lü Yuezu, where I was responsible for communication improvements in multi-UAV collaborative exploration.
 
