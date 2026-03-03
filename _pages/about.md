@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on legged robots at the Laboratory under the National Institute of Excellence for Engineers, Chongqing University. My research interests include legged robots, reinforcement learning, locomotion and VLA.
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on embodied intelligence at the Laboratory under the National Institute of Excellence for Engineers, Chongqing University. My research interests include legged robots, reinforcement learning, locomotion and VLA.
 
  [GitHub](https://github.com/shiluhe) /[B站](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
@@ -23,7 +23,7 @@ Academic Background
 
 I am working on scientific research now！
 ======
-[11/2025 -- 03/2026] Conducting research on locomotion-based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026.
+[11/2025 -- 03/2026] Conducting research on locomotion based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026.
 
 [07/2025 -- 09/2025] Completed a research internship at the Institute of Frontier Interdisciplinary Sciences, Beijing Institute of Technology, under the supervision of Professor Lü Yuezu, where I was responsible for communication improvements in multi-UAV collaborative exploration.
 
