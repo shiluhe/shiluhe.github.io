@@ -15,7 +15,7 @@ Hi！I am a third-year undergraduate student majoring in Robotics Engineering at
 
 Academic Background
 ======
-**ChongQing University (2023.09 - 至今)**
+**Chongqing University (2023.09 - 至今)**
 
 - GPA: 3.83/4
 
