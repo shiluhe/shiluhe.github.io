@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on embodied intelligence at the Laboratory under the National Institute of Excellence for Engineers, Chongqing University. My research interests include legged robots, reinforcement learning, locomotion and VLA.
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I conduct research on embodied intelligence in the Data Mining Lab at Chongqing University, under the supervision of Prof. Wang Ke and Prof. Hu Zhe. My research interests include reinforcement learning, locomotion and VLA.
 
  [GitHub](https://github.com/shiluhe) /[B站](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
