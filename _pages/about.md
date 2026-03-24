@@ -9,9 +9,9 @@ redirect_from:
 
 About Me
 ======
-Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I conduct research on embodied intelligence in the Data Mining Lab at Chongqing University, under the supervision of [Prof. Wang Ke](https://eie.cqu.edu.cn/info/1204/2742.htm) and [Prof. Hu Zhe](https://faculty.cqu.edu.cn/huzhe/zh_CN/index.htm), about world action models (WAMs) for embodied intelligence. My research interests include reinforcement learning, locomotion, VLA, and WAM.
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I conduct research on embodied intelligence in the Data Mining Lab at Chongqing University, under the supervision of [Prof. Wang Ke](https://eie.cqu.edu.cn/info/1204/2742.htm) and [Prof. Hu Zhe](https://faculty.cqu.edu.cn/huzhe/zh_CN/index.htm). My research interests include reinforcement learning, locomotion, VLA, and WAM.
 
-During my break, I'm currently working on a 5-minute personal interpretation video series on embodiment, which I'll be posting on Bilibili. And this is [my GitHub repository](https://github.com/shiluhe/embodied-in-5min).
+During my break, I'm currently working on a 5-minute personal interpretation video series on embodiment, which I'll be posting on Bilibili. And this is [gitHub repository](https://github.com/shiluhe/embodied-in-5min).
 
  [GitHub](https://github.com/shiluhe) /[Bilibili](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
@@ -25,7 +25,9 @@ Academic Background
 
 I am working on scientific research now！
 ======
-[11/2025 -- 03/2026] Conducting research on locomotion based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026.
+[03/2026 -- now] Conducting research on world action models (WAM) for embodied intelligence, exploring generative video-action modeling, lightweight adaptation, and reinforcement learning for data-efficient policy learning.
+
+[11/2025 -- 03/2026] Conducting research on locomotion based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026, This is the [project website](https://prior-iros2026.github.io/)
 
 [07/2025 -- 09/2025] Completed a research internship at the Institute of Frontier Interdisciplinary Sciences, Beijing Institute of Technology, under the supervision of Professor Lü Yuezu, where I was responsible for communication improvements in multi-UAV collaborative exploration.
 
