@@ -9,9 +9,11 @@ redirect_from:
 
 About Me
 ======
-Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I conduct research on embodied intelligence in the Data Mining Lab at Chongqing University, under the supervision of [Prof. Wang Ke](https://eie.cqu.edu.cn/info/1204/2742.htm) and [Prof. Hu Zhe](https://faculty.cqu.edu.cn/huzhe/zh_CN/index.htm). My research interests include reinforcement learning, locomotion and VLA.
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I conduct research on embodied intelligence in the Data Mining Lab at Chongqing University, under the supervision of [Prof. Wang Ke](https://eie.cqu.edu.cn/info/1204/2742.htm) and [Prof. Hu Zhe](https://faculty.cqu.edu.cn/huzhe/zh_CN/index.htm), about world action models (WAMs) for embodied intelligence. My research interests include reinforcement learning, locomotion, VLA, and WAM.
 
- [GitHub](https://github.com/shiluhe) /[Bibi](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
+During my break, I'm currently working on a 5-minute personal interpretation video series on embodiment, which I'll be posting on Bilibili. And this is [my GitHub repository](https://github.com/shiluhe/embodied-in-5min).
+
+ [GitHub](https://github.com/shiluhe) /[Bilibili](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
 Academic Background
 ======
