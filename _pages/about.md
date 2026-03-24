@@ -17,7 +17,7 @@ During my break, I'm currently working on a 5-minute personal interpretation vid
 
 Academic Background
 ======
-**Chongqing University (2023.09 - 至今)**
+**Chongqing University (2023.09 - now)**
 
 - GPA: 3.83/4
 
