@@ -25,7 +25,7 @@ Academic Background
 
 I am working on scientific research now！
 ======
-[03/2026 -- now] Conducting research on world action models (WAM) for embodied intelligence, exploring generative video-action modeling, lightweight adaptation, and reinforcement learning for data-efficient policy learning.
+[03/2026 -- now] Conducting research on VLA and RL-related methods for embodied intelligence, while also exploring world action models (WAM), in the Data Mining Lab at Chongqing University.
 
 [11/2025 -- 03/2026] Conducting research on locomotion based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026, This is the [project website](https://prior-iros2026.github.io/)
 
