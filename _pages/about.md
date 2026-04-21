@@ -21,7 +21,7 @@ Academic Background
 
 - GPA: 3.83/4
 
-- Rank: 1/57
+- Rank: 1/41
 
 I am working on scientific research now！
 ======
