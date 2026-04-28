@@ -53,7 +53,6 @@ Competitions and Entrepreneurship
 
 Honors and Awards
 ======
-[04/2026] Awarded Chongqing Municipal Outstanding Student.
 
 [11/2025] Awarded Chongqing University Person of the Year (one of only 10 undergraduate students in the entire university each year).
 
